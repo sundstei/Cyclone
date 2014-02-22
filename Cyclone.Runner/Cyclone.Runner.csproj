@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Cyclone.Core.csproj">
+    <ProjectReference Include="..\Cyclone\Cyclone.Core.csproj">
       <Project>{679ae837-ae14-49b6-83f4-11e8de38ffec}</Project>
       <Name>Cyclone.Core</Name>
     </ProjectReference>
