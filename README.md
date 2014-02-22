@@ -1,4 +1,4 @@
 Cyclone
 =======
 
-High performance message bus interface
+High performance message bus interface with low friction.
